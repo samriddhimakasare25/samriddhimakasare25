@@ -24,4 +24,27 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ   IDEA">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"   alt="Visual Studio Code">
-  <img src="https://img.shiel
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+  <p align=center>  
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=samriddhimakasare25&show_icons=true&theme=rose">
+</p>
+</p>
+
+<h2 align="center">✨ Contact ME ✨  </h2>
+<p align = "center">Are you a recruiter? Email me to access my private repositories! </p>
+<p align="center">
+  
+  <a href="mailto: samriddhhi.makasare@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  </a> 
+  <a href="https://www.linkedin.com/in/samriddhi-makasare-312715245/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>  
+  </a> 
+</p>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/ciaracade/ciaracade/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/ciaracade/ciaracade/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width = "1000">
+</p>
