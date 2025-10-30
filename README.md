@@ -5,7 +5,7 @@
 <h2 align="center">✨ Hi, my name is Samriddhi Makasare ✨  </h2>
 
 <p align="center">
-  Currently a second year pursuing my Bachelor of Arts in User Experience design at Wilfrid Laurier University . I'm into doing my own side projects and anything that will help me learn and understand new technologies. Interning at Lotus Addiction Therapy as a Full Stack Developer and I am the CEO/Founder of Zeuty.  Highly interested in Frontend oppurtunities. 
+  Currently a third year pursuing my Bachelor of Arts in User Experience design at Wilfrid Laurier University . I'm into doing my own side projects and anything that will help me learn and understand new technologies. Interning at Lotus Addiction Therapy as a Full Stack Developer and I am the CEO/Founder of Zeuty.  Highly interested in Frontend oppurtunities. 
   </p>
 
   <p align="center">
